@@ -26,7 +26,7 @@ Ao iniciar a aplicação o usuário é direcionado para a tela inicial, onde lhe
 Tanto pela página de serviços, quanto pela página de detalhes, o usuário pode acessar a página do carrinho, onde ele encontra uma relação dos serviços adicionados com as informações de título, preço individual e também a soma de todos os serviços selecionados. É possível também deletar algum serviço do carrinho clicando no ícone de lixeira. Nesta tela, o usuário pode iteragir das seguintes formas:
   - ao clicar no título "LabeNinjas", no canto superior esquerdo, ele é redirecionado para a página inicial.
   - ao clicar na seta, canto superior direito, o usuário é redirecionado para a página de serviços.
-  - ao clicar em **Contratar serviços** uma mensagem confirmando essa ação é realizada, porém, nenhuma funcionalidade extra é realizada.
+  - ao clicar em **Contratar serviços** uma mensagem de confirmação é exibida, porém, nenhuma funcionalidade extra é realizada.
 
 **b) Cadastrar:** o usuário é redirecionado para a página de cadastrar serviços, onde lhe é apresentado uma formulário para preenchimento com os seguintes campos:
   - Título </br>
