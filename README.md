@@ -42,17 +42,17 @@ Márleo Piber da Rosa
 Michelle da Rosa Machado
   
 # `Imagens`
-###Tela inicial:
+### Tela inicial:
 <img src="src/assets/img/img_readme/home.png"/>
 
-###Tela contratar serviço:
+### Tela contratar serviço:
 <img src="src/assets/img/img_readme/contratar.png"/>
 
-###Tela detalhes do serviço:
+### Tela detalhes do serviço:
 <img src="src/assets/img/img_readme/detalhes.png"/>
 
-###Tela cadastrar serviço:
+### Tela cadastrar serviço:
 <img src="src/assets/img/img_readme/cadastrar.png"/>
 
-###Tela carrinho:
+### Tela carrinho:
 <img src="src/assets/img/img_readme/carrinho.png"/>
