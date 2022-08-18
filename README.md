@@ -28,7 +28,7 @@ Tanto pela página de serviços, quanto pela página de detalhes, o usuário pod
   - ao clicar na seta, canto superior direito, o usuário é redirecionado para a página de serviços.
   - ao clicar em **Contratar serviços** uma mensagem de confirmação é exibida, porém, nenhuma funcionalidade extra é realizada.
 
-**b) Cadastrar:** o usuário é redirecionado para a página de cadastrar serviços, onde lhe é apresentado uma formulário para preenchimento com os seguintes campos:
+**b) Cadastrar:** o usuário é redirecionado para a página de cadastrar serviços, onde lhe é apresentado um formulário para preenchimento dos seguintes campos:
   - Título </br>
   - Descrição </br>
   - Preço </br>
