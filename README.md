@@ -55,10 +55,10 @@ Tanto pela página de serviços, quanto pela página de detalhes, o usuário pod
 </div>
 
 # `Autores`
-Bruna Vitória Oliveira de Sousa
-Evandro Paulo Folletto
-Olavo Marques do Nascimento
-Márleo Piber da Rosa
+Bruna Vitória Oliveira de Sousa </br>
+Evandro Paulo Folletto </br>
+Olavo Marques do Nascimento </br>
+Márleo Piber da Rosa </br>
 Michelle da Rosa Machado
   
 # `Imagens`
