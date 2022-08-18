@@ -13,7 +13,7 @@ Os prestadores de serviço podem cadastrar seus serviços na plataforma, informa
 
 # `Modo de usar`
 Ao iniciar a aplicação o usuário é direcionado para a tela inicial, onde lhe são apresentadas duas opções: Contratar e Cadastrar: </br>
-**a) Contratar:** o usuário é redirecionado para a página de serviços, onde é apresentada uma lista de serviços cadastrados na plataforma. O usuário pode ordenar os serviços por preço em ordem crescente ou decrescente, por título e por prazo. Também é possível filtrar os serviços por valor mínimo e máximo e ainda procurar serviços por palavra chave. Nesta tela, o usuário também pode:
+**a) Contratar:** o usuário é redirecionado para a página de serviços, onde é apresentada uma lista de serviços cadastrados na plataforma. O usuário pode ordenar os serviços por preço em ordem crescente ou decrescente, por título e por prazo. Também é possível filtrar os serviços por valor mínimo e máximo e ainda procurar serviços por palavra chave. Nesta tela, o usuário também pode iteragir das seguintes formas:
   - ao clicar no título "LabeNinjas" no canto superior esquerdo, ele é redirecionada para a página inicial;
   - ao clicar no carrinho no canto superior direito, o usuário é redirecionado para a página carrinho;
   - no card, ao clicar no ícone do carrinho, o usuário adiciona aquele produto ao seu carrinho de compras e uma mensagem de confirmação desta ação é exibida;
