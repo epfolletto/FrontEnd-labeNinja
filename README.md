@@ -22,6 +22,7 @@ Ao iniciar a aplicação o usuário é direcionado para a tela inicial, onde lhe
     - clicar no carrinho no canto superior direito, e ser redirecionado para a página carrinho.
     - clicar em **Adicionar ao carrinho** e adicionar este serviço ao seu carrinho de compras.
     - clicar em voltar, e ser redirecionado para a página de serviços.
+
 Tanto pela página de serviços, quanto pela página de detalhes, o usuário pode acessar a página do carrinho, onde ele encontra uma relação dos serviços adicionados com as informações de título, preço individual e também a soma de todos os serviços selecionados. É possível também deletar algum serviço do carrinho clicando no ícone de lixeira. Nesta tela, o usuário pode iteragir das seguintes formas:
   - ao clicar no título "LabeNinjas" no canto superior esquerdo, ele é redirecionada para a página inicial;
   - ao clicar na seta canto superior direito, o usuário é redirecionado para a página de serviços;
