@@ -1,8 +1,8 @@
-# Projeto:
-Site Marketplace LabeNinjas
+# `Projeto`
+Site LabeNinjas
 
-# Link do Surge:
-https://labeninjas5-alves.surge.sh/
+# `Link`
+[Clique aqui!](https://labeninjas5-alves.surge.sh/)
 
 # Descrição:
 O site LabeNinjas é um Marketplace que gerencia a maior plataforma online para conectar clientes a prestadores de serviços por todo país. </br>
