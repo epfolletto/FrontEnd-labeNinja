@@ -29,10 +29,10 @@ Tanto pela página de serviços, quanto pela página de detalhes, o usuário pod
   - ao clicar em **Contratar serviços** uma mensagem de confirmação é exibida, porém, nenhuma funcionalidade extra é realizada.
 
 **b) Cadastrar:** o usuário é redirecionado para a página de cadastrar serviços, onde lhe é apresentado um formulário para preenchimento dos seguintes campos:
-  - Título </br>
-  - Descrição </br>
-  - Preço </br>
-  - Validade do serviço </br>
+  - Título
+  - Descrição
+  - Preço
+  - Validade do serviço
   - Método de pagamento, podendo selecionar uma ou mais das opções:
     - cartão de crédito
     - cartão de débito
