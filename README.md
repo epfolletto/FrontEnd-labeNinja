@@ -12,15 +12,32 @@ O site possui também a opção de adicionar o serviço ao carrinho de compras, 
 Os prestadores de serviço podem cadastrar seus serviços na plataforma, informando para tal: Título, Descrição, Preço, Validade do serviço e Método de pagamento (podendo selecionar quantas opções quiser entre Cartão de Crédito, Cartão de Débito, Pix, Paypal e Boleto).
 
 # `Modo de usar`
-Ao iniciar a aplicação o usuário é direcionado para a tela de Login. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
-</br>
-Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão por exemplo comida Asiática, Hamburgueres, Italiana, Sorvetes entre outros.
-</br>
-Clicando sobre a imagem de um restaurante no feed, o usuário é redicionado para a página de detalhes detes, onde são listados todos os alimentos fornecidos pelo estabelecimento, podendo o usuário adicionar e remover produtos para o seu carrinho.
-</br>
-Na parte inferior existe um menu, onde o usuário pode acessar a página de carrinho e verificar todos os itens que adicionou ao mesmo, valor do frente e total da compra, além de selecionar um método de pagamento. Também é possível remover itens da lista. Ao clicar em confirmar, será exibida uma mensagem de pedido realizado com sucesso.
-</br>
-No menu inferior, o usuário pode clicar no ícone de perfil e então será redirecionado para a página de perfil do usuário, onde pode alterar seus dados cadastrais e de endereço, e ainda verificar o seu histórico de pedidos. No canto superior direito da página, é possível também fazer o logout da conta, sendo então redirecionado para a página de login.
+Ao iniciar a aplicação o usuário é direcionado para a tela inicial, onde lhe são apresentadas duas opções: Contratar e Cadastrar: </br>
+**a) Contratar:** o usuário é redirecionado para a página de serviços, onde lhe é apresentada uma lista de serviços cadastrastrados na plataforma. O usuário pode ordenar os serviços por preços em ordem crescente ou decrescente, por título e por prazo. Também é possível filtrar os serviços por valor mínimo e máximo e ainda procurar serviços por palavra chave. Nesta tela, o usuário também pode:
+  - ao clicar no título "LabeNinjas" no canto superior esquerdo, ele é redirecionada para a página inicial;
+  - ao clicar no carrinho no canto superior direito, o usuário é redirecionado para a página carrinho;
+  - no card, ao clicar no ícone do carrinho, o usuário adiciona aquele produto ao seu carrinho de compras e uma mensagem de confirmação desta ação é exibida;
+  - no card, ao clicar em **Ver detalhes**, o usuário é redirecionado para a página de detalhes deste produto, onde constam algumas informações: Título do serviço, métodos de pagamento que são aceitos, prazo e valor. Nesta tela, o usuário pode:
+    - ao clicar no título "LabeNinjas" no canto superior esquerdo, ele é redirecionada para a página inicial;
+    - ao clicar no carrinho no canto superior direito, o usuário é redirecionado para a página carrinho;
+    - ao clicar em **Adicionar ao carrinho** o usuário adicionar este serviço ao seu carrinho de compras;
+    - ao clicar em voltar, o usuário é redirecionado para a página de serviços.
+Tanto pela página de serviços, quanto pela página de detalhes, o usuário pode acessar a página do carrinho, onde ele encontra uma relação dos serviços adicionados com as informações de título, preço individual e também a soma de todos os serviços selecionados. É possível também deletar algum serviço do carrinho clicando no ícone de lixeira. Nesta tela, o usuário pode iteragir das seguintes formas:
+  - ao clicar no título "LabeNinjas" no canto superior esquerdo, ele é redirecionada para a página inicial;
+  - ao clicar na seta canto superior direito, o usuário é redirecionado para a página de serviços;
+  - ao clicar em **Contratar serviços** uma mensagem confirmando essa ação é realizada, porém, nenhuma funcionalidade extra é realizada.
+
+**b) Cadastrar:** o usuário é redirecionado para a página de cadastrar serviços, onde lhe é apresentado uma formulário para preenchimento com os seguintes campos:
+  - Título </br>
+  - Descrição </br>
+  - Preço </br>
+  - Validade do serviço </br>
+  - Método de pagamento, podendo selecionar uma ou mais das opções:
+    - cartão de crédito
+    - cartão de débito
+    - pix
+    - paypal
+    - boleto
 
 # `Tecnologias utilizadas`
 <div>
